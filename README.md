@@ -1,4 +1,6 @@
 <h1 align="center" style="font-family: 'Times New Roman', Times, serif;">Hey there, I'm Savindu</h1>
+<p align="center">🎓 <strong>Artificial Intelligence Undergraduate</strong> at <a href="https://uom.lk/" style="color: inherit; text-decoration: underline;">University of Moratuwa, Sri Lanka</a>.</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/savindu-udara/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -7,12 +9,13 @@
   <a href="https://twitter.com/dummy"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://facebook.com/dummy"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
 </p>
-
-<p align="justify" style="border: 2px solid black; border-radius: 10px; padding: 10px;">
+<br>
+<p style="border: 2px solid black; border-radius: 10px; padding: 10px;">
   I'm an enthusiastic Artificial Intelligence student currently in my third year at the University of Moratuwa. I have a passion for leveraging technology to solve real-life problems and making a positive impact through innovation.
 </p>
 
 <br>
+<h4> Languages and Tools </h3>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
@@ -41,32 +44,36 @@
 <div style="display: flex; justify-content: center;">
   <table style="width: 90%; border-collapse: collapse; border: none;">
     <tr>
-      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none;">
-        <div style="padding: 20px;">
-          <img src="https://www.shutterstock.com/image-vector/people-taking-documents-shelves-using-600nw-1871168869.jpg" alt="Project 1 Image" style="width: 500px; height: 250px; object-fit: cover;">
+      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+        <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
+          <img src="https://www.shutterstock.com/image-vector/people-taking-documents-shelves-using-600nw-1871168869.jpg" alt="Project 1 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
         </div>
       </td>
-      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none;">
-        <div style="padding: 20px;">
-          <img src="https://static.vecteezy.com/system/resources/thumbnails/047/442/241/small_2x/man-standing-in-water-collecting-trash-from-the-river-flat-illustration-isolated-on-white-eco-volunteer-cleaning-up-water-from-plastic-garbage-garbage-retention-system-vector.jpg" alt="Project 2 Image" style="width: 500px; height: 250px; object-fit: cover;">
+      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+        <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
+          <img src="https://static.vecteezy.com/system/resources/thumbnails/047/442/241/small_2x/man-standing-in-water-collecting-trash-from-the-river-flat-illustration-isolated-on-white-eco-volunteer-cleaning-up-water-from-plastic-garbage-garbage-retention-system-vector.jpg" alt="Project 2 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
         </div>
       </td>
     </tr>
+    <tr style="height: 20px;"></tr> <!-- Empty row for spacing -->
     <tr>
-      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none;">
-        <div style="padding: 20px;">
-          <p><strong>📱 AI Assisted Document Digitizing System</strong></p>
-          <p>This web application will digitize uploaded medical and financial  <br> documents while validating them and categorizing them.  Allowing <br>users in medical and financial fields to handle documents more efficiently.</p>
+      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+        <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
+          <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱 AI Assisted Document Digitizing System</a></strong></p>
+          <p style="color: green;">This web application will digitize uploaded medical and financial  <br> documents while validating them and categorizing them.  Allowing <br>users in medical and financial fields to handle documents more efficiently.</p>
         </div>
       </td>
-      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none;">
-        <div style="padding: 20px;">
-         <p><strong>📱 Water Surfurce Trash Collecting Bot </strong></p>
-          <p>A rover that can float on water and controled by the user which  <br> will atonoumsly collect trash floating on the water. It will dectect<br> water's purity level, PH levels and will send back a full feedback to the user.v>
+      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+        <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
+          <p><strong><a href="https://github.com/GayuniBas2001/ProjectLevel01" style="color: blue;">📱 Water Surfurce Trash Collecting Bot </a></strong></p>
+          <p style="color: green;">A rover that can float on water and controlled by the user which  <br> will autonomously collect trash floating on the water. It will detect<br> water's purity level, pH levels and will send back a full feedback to the user.</p>
+        </div>
       </td>
     </tr>
   </table>
 </div>
+<br>
+
 
 
 
