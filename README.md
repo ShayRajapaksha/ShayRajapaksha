@@ -11,7 +11,7 @@
 </p>
 <br>
 <p style="border: 2px solid black; border-radius: 10px; padding: 10px;">
-  I'm an enthusiastic Artificial Intelligence student currently in my third year at the University of Moratuwa. I have a passion for leveraging technology to solve real-life problems and making a positive impact through innovation.
+ ❖ I'm an enthusiastic Artificial Intelligence student currently in my third year at the University of Moratuwa. I have a passion for leveraging technology to solve real-life problems and making a positive impact through innovation.
 </p>
 
 <h1>
