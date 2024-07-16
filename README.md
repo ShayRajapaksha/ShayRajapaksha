@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family: 'Times New Roman', Times, serif;">Hey there, I'm Savindu</h1>
-<p align="center">🎓 <strong>Artificial Intelligence Undergraduate</strong> at <a href="https://uom.lk/" style="color: inherit; text-decoration: underline;">University of Moratuwa, Sri Lanka</a>.</p>
+<p align="center"> 🖥🧠 <strong>Artificial Intelligence Undergraduate</strong> at 🎓<a href="https://uom.lk/" style="color: inherit; text-decoration: underline;">University of Moratuwa, Sri Lanka</a>.</p>
 
 
 <p align="center">
@@ -14,6 +14,7 @@
   I'm an enthusiastic Artificial Intelligence student currently in my third year at the University of Moratuwa. I have a passion for leveraging technology to solve real-life problems and making a positive impact through innovation.
 </p>
 
+<h1>
 <br>
 <h4> Languages and Tools </h3>
 <p align="center">
@@ -38,8 +39,9 @@
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
 </p>
-
-<h3 align="center">🔭 What I've Done</h3>
+</h1>
+<h1>
+<h3 align="center">🏅 What I've Done</h3>
 
 <div style="display: flex; justify-content: center;">
   <table style="width: 90%; border-collapse: collapse; border: none;">
@@ -65,7 +67,7 @@
       </td>
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
-          <p><strong><a href="https://github.com/GayuniBas2001/ProjectLevel01" style="color: blue;">📱 Water Surfurce Trash Collecting Bot </a></strong></p>
+          <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱 Water Surfurce Trash Collecting Bot</a></strong></p><br>
           <p style="color: green;">A rover that can float on water and controlled by the user which  <br> will autonomously collect trash floating on the water. It will detect<br> water's purity level, pH levels and will send back a full feedback to the user.</p>
         </div>
       </td>
@@ -74,9 +76,47 @@
 </div>
 <br>
 
+</h1>
 
 
 
+
+<h3 align="center">🔭 I'm Currently Workning on</h3>
+
+<div style="display: flex; justify-content: center;">
+  <table style="width: 90%; border-collapse: collapse; border: none;">
+    <tr>
+      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+        <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
+          <img src="https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1717804800&semt=ais_user" alt="Project 1 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
+        </div>
+      </td>
+      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+        <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
+          <img src="https://media.istockphoto.com/id/1190555610/vector/artificial-intelligence-of-modern-technology-brain-in-laptop.jpg?s=612x612&w=0&k=20&c=SqfO6Lvq2tPISnwlzrdVJArDZKBeTAPaNQU2fuST3Yc=" alt="Project 2 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
+        </div>
+      </td>
+    </tr>
+    <tr style="height: 20px;"></tr> <!-- Empty row for spacing -->
+    <tr>
+      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+        <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
+          <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">RESEARCH 1</a></strong></p>
+          <p style="color: green;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+        </div>
+      </td>
+      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+        <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
+          <p><strong><a href="https://github.com/GayuniBas2001/ProjectLevel01" style="color: blue;">RESEARCH 2 </a></strong></p>
+          <p style="color: green;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam..</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
+
+  
 
 
 
