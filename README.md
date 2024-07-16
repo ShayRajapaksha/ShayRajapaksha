@@ -1,4 +1,5 @@
-<h1 align="center">Hey there, I'm Savindu</h1>
+<h1 align="center" style="font-family: 'Times New Roman', Times, serif;">Hey there, I'm Savindu</h1>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/savindu-udara/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/shayrajapaksha"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
@@ -7,7 +8,10 @@
   <a href="https://facebook.com/dummy"><img alt="Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
 </p>
 
-<p align="justify">I'm an enthusiastic Artificial Intelligence student currently in my third year at the University of Moratuwa. I have a passion for leveraging technology to solve real-life problems and making a positive impact through innovation.</p>
+<p align="justify" style="border: 2px solid black; border-radius: 10px; padding: 10px;">
+  I'm an enthusiastic Artificial Intelligence student currently in my third year at the University of Moratuwa. I have a passion for leveraging technology to solve real-life problems and making a positive impact through innovation.
+</p>
+
 <br>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -39,12 +43,12 @@
     <tr>
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none;">
         <div style="padding: 20px;">
-          <img src="https://www.shutterstock.com/image-vector/people-taking-documents-shelves-using-600nw-1871168869.jpg" alt="Project 1 Image" style="width: 100px; height: 50px; object-fit: cover;">
+          <img src="https://www.shutterstock.com/image-vector/people-taking-documents-shelves-using-600nw-1871168869.jpg" alt="Project 1 Image" style="width: 500px; height: 250px; object-fit: cover;">
         </div>
       </td>
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none;">
         <div style="padding: 20px;">
-          <img src="https://static.vecteezy.com/system/resources/thumbnails/047/442/241/small_2x/man-standing-in-water-collecting-trash-from-the-river-flat-illustration-isolated-on-white-eco-volunteer-cleaning-up-water-from-plastic-garbage-garbage-retention-system-vector.jpg" alt="Project 2 Image" style="width: 100px; height: 50px; object-fit: cover;">
+          <img src="https://static.vecteezy.com/system/resources/thumbnails/047/442/241/small_2x/man-standing-in-water-collecting-trash-from-the-river-flat-illustration-isolated-on-white-eco-volunteer-cleaning-up-water-from-plastic-garbage-garbage-retention-system-vector.jpg" alt="Project 2 Image" style="width: 500px; height: 250px; object-fit: cover;">
         </div>
       </td>
     </tr>
@@ -52,14 +56,13 @@
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none;">
         <div style="padding: 20px;">
           <p><strong>📱 AI Assisted Document Digitizing System</strong></p>
-          <p>This web application will digitize uploaded medical and financial documents while validating them and categorizing them. Allowing users in medical and financial fields to handle documents more efficiently.</p>
+          <p>This web application will digitize uploaded medical and financial  <br> documents while validating them and categorizing them.  Allowing <br>users in medical and financial fields to handle documents more efficiently.</p>
         </div>
       </td>
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none;">
         <div style="padding: 20px;">
-          <p><strong>🛒 Water Surface Trash Collector</strong></p>
-          <p>This rover will float and move on water, collecting floating trash on the surface automatically.</p>
-        </div>
+         <p><strong>📱 Water Surfurce Trash Collecting Bot </strong></p>
+          <p>A rover that can float on water and controled by the user which  <br> will atonoumsly collect trash floating on the water. It will dectect<br> water's purity level, PH levels and will send back a full feedback to the user.v>
       </td>
     </tr>
   </table>
