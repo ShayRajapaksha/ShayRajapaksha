@@ -1,3 +1,5 @@
+![Banner](https://img.freepik.com/free-vector/hand-drawn-artificial-intelligence-twitch-banner_23-2150359296.jpg?t=st=1721118291~exp=1721121891~hmac=f41f9899d4fb5e99ca35b153223a4e53cba6850e2260c54760fda7831f1e7ef2&w=1380)
+
 <h1 align="center" style="font-family: 'Times New Roman', Times, serif;">Hey there, I'm Savindu</h1>
 <p align="center"> 🖥🧠 <strong>Artificial Intelligence Undergraduate</strong> at 🎓<a href="https://uom.lk/" style="color: inherit; text-decoration: underline;">University of Moratuwa, Sri Lanka</a>.</p>
 
