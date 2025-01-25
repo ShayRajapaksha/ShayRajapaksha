@@ -54,12 +54,15 @@ Empty row for spacing -->
 
 <div style="display: flex; justify-content: center;">
   <table style="width: 90%; border-collapse: collapse; border: none;">
+    <!--   --> 
     <tr>
+      <!-- ====================================== DOCDIGI PROJECT ================================================ -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <img src="https://www.shutterstock.com/image-vector/people-taking-documents-shelves-using-600nw-1871168869.jpg" alt="Project 1 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
         </div>
       </td>
+      <!-- ====================================== BRAIN TUMOUR ================================================ -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <img src="https://static.vecteezy.com/system/resources/thumbnails/047/442/241/small_2x/man-standing-in-water-collecting-trash-from-the-river-flat-illustration-isolated-on-white-eco-volunteer-cleaning-up-water-from-plastic-garbage-garbage-retention-system-vector.jpg" alt="Project 2 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
@@ -68,12 +71,14 @@ Empty row for spacing -->
     </tr>
     <tr style="height: 20px;"></tr> <!-- Empty row for spacing -->
     <tr>
+      <!-- ====================================== DOC DIGI ================================================ -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱 AI Assisted Document Digitizing System</a></strong></p>
           <p style="color: green;">This web application will digitize uploaded medical and financial  <br> documents while validating them and categorizing them.  Allowing <br>users in medical and financial fields to handle documents more efficiently.</p>
         </div>
       </td>
+      <!-- ====================================== BRAIN TUMOUR ================================================ -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱 Water Surfurce Trash Collecting Bot</a></strong></p><br>
@@ -83,14 +88,20 @@ Empty row for spacing -->
     </tr>
   </table>
 </div>
+
+
+
 <div style="display: flex; justify-content: center;">
   <table style="width: 90%; border-collapse: collapse; border: none;">
+    <!--   --> 
     <tr>
+      <!-- ====================================== LLM ================================================ -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <img src="https://www.shutterstock.com/image-vector/people-taking-documents-shelves-using-600nw-1871168869.jpg" alt="Project 1 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
         </div>
       </td>
+      <!-- ====================================== ML PROJECT ================================================ -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <img src="https://static.vecteezy.com/system/resources/thumbnails/047/442/241/small_2x/man-standing-in-water-collecting-trash-from-the-river-flat-illustration-isolated-on-white-eco-volunteer-cleaning-up-water-from-plastic-garbage-garbage-retention-system-vector.jpg" alt="Project 2 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
@@ -99,12 +110,14 @@ Empty row for spacing -->
     </tr>
     <tr style="height: 20px;"></tr> <!-- Empty row for spacing -->
     <tr>
+      <!-- ====================================== LLM ================================================ -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱 AI Assisted Document Digitizing System</a></strong></p>
           <p style="color: green;">This web application will digitize uploaded medical and financial  <br> documents while validating them and categorizing them.  Allowing <br>users in medical and financial fields to handle documents more efficiently.</p>
         </div>
       </td>
+      <!-- ====================================== ML PROJECT ================================================ -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱 Water Surfurce Trash Collecting Bot</a></strong></p><br>
@@ -114,6 +127,45 @@ Empty row for spacing -->
     </tr>
   </table>
 </div>
+
+<div style="display: flex; justify-content: center;">
+  <table style="width: 90%; border-collapse: collapse; border: none;">
+    <!--   --> 
+    <tr>
+      <!-- ====================================== ANN ================================================ -->
+      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+        <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
+          <img src="https://www.shutterstock.com/image-vector/people-taking-documents-shelves-using-600nw-1871168869.jpg" alt="Project 1 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
+        </div>
+      </td>
+      <!-- ====================================== HARDWARE PROJECT ================================================ -->
+      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+        <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
+          <img src="https://static.vecteezy.com/system/resources/thumbnails/047/442/241/small_2x/man-standing-in-water-collecting-trash-from-the-river-flat-illustration-isolated-on-white-eco-volunteer-cleaning-up-water-from-plastic-garbage-garbage-retention-system-vector.jpg" alt="Project 2 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
+        </div>
+      </td>
+    </tr>
+    <tr style="height: 20px;"></tr> <!-- Empty row for spacing -->
+    <tr>
+      <!-- ====================================== ANN ================================================ -->
+      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+        <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
+          <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱 AI Assisted Document Digitizing System</a></strong></p>
+          <p style="color: green;">This web application will digitize uploaded medical and financial  <br> documents while validating them and categorizing them.  Allowing <br>users in medical and financial fields to handle documents more efficiently.</p>
+        </div>
+      </td>
+      <!-- ====================================== HARDWARE PROJECT ================================================ -->
+      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+        <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
+          <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱 Water Surfurce Trash Collecting Bot</a></strong></p><br>
+          <p style="color: green;">A rover that can float on water and controlled by the user which  <br> will autonomously collect trash floating on the water. It will detect<br> water's purity level, pH levels and will send back a full feedback to the user.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 <br>
 
 </h1>
@@ -126,11 +178,13 @@ Empty row for spacing -->
 <div style="display: flex; justify-content: center;">
   <table style="width: 90%; border-collapse: collapse; border: none;">
     <tr>
+      <!-- ====================================== RESERACH ONE ================================================ -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <img src="https://img.freepik.com/free-vector/brain-with-digital-circuit-programmer-with-laptop-machine-learning-artificial-intelligence-digital-brain-artificial-thinking-process-concept-vector-isolated-illustration_335657-2246.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1717804800&semt=ais_user" alt="Project 1 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
         </div>
       </td>
+      <!-- ====================================== RESEARCH TWO ================================================ -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <img src="https://media.istockphoto.com/id/1190555610/vector/artificial-intelligence-of-modern-technology-brain-in-laptop.jpg?s=612x612&w=0&k=20&c=SqfO6Lvq2tPISnwlzrdVJArDZKBeTAPaNQU2fuST3Yc=" alt="Project 2 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
@@ -139,12 +193,14 @@ Empty row for spacing -->
     </tr>
     <tr style="height: 20px;"></tr> <!-- Empty row for spacing -->
     <tr>
+      <!-- ====================================== RESEARCH ONE ================================================ -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">RESEARCH 1</a></strong></p>
           <p style="color: green;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
         </div>
       </td>
+      <!-- ====================================== RESEARCH TWO ================================================ -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <p><strong><a href="https://github.com/GayuniBas2001/ProjectLevel01" style="color: blue;">RESEARCH 2 </a></strong></p>
