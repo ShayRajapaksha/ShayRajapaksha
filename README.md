@@ -47,42 +47,87 @@ Empty row for spacing -->
 <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
  </p>
 </h1>
 <h1>
 <h3 align="center">🏅 What I've Done</h3>
 
 <div style="display: flex; justify-content: center;">
-  <table style="width: 90%; border-collapse: collapse; border: none;">
-    <!--   --> 
+  <table style="width: 90%; border-collapse: collapse; table-layout: fixed; border: none;">
+    <colgroup>
+      <col style="width: 50%;">
+      <col style="width: 50%;">
+    </colgroup>
     <tr>
-      <!-- ====================================== DOCDIGI PROJECT ================================================ -->
-      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+      <!-- Column 1 -->
+      <td style="text-align: center; padding: 20px; vertical-align: top; border: none; overflow: hidden;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
-          <img src="https://www.shutterstock.com/image-vector/people-taking-documents-shelves-using-600nw-1871168869.jpg" alt="Project 1 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
+          <img src="https://www.shutterstock.com/image-vector/people-taking-documents-shelves-using-600nw-1871168869.jpg" 
+               alt="Project 1 Image" 
+               style="width: 550px; max-width: 100%; height: auto; object-fit: cover; border-radius: 10px;">
         </div>
       </td>
-      <!-- ====================================== BRAIN TUMOUR ================================================ -->
-      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+      <!-- Column 2 -->
+      <td style="text-align: center; padding: 20px; vertical-align: top; border: none; overflow: hidden;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
-          <img src="https://static.vecteezy.com/system/resources/thumbnails/047/442/241/small_2x/man-standing-in-water-collecting-trash-from-the-river-flat-illustration-isolated-on-white-eco-volunteer-cleaning-up-water-from-plastic-garbage-garbage-retention-system-vector.jpg" alt="Project 2 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
+          <img src="https://cdn.discordapp.com/attachments/1251434166306869279/1332667955707773009/concept-of-brain-disease-and-neurosurgery-flat-style-illustration-male-doctor-ready-nurse-standing-using-a-magnifying-glass-find-neurological-disease-and-hemorrhagic-stroke-symbols-free-vector.jpg?ex=67961740&is=6794c5c0&hm=f45a42151ae1431fefbd1ab6ad0dbdb73e318be66bb8e8f418e1cacc4c88dc2c&" 
+               alt="Project 2 Image" 
+               style="width: 450px; max-width: 100%; height: auto; object-fit: cover; border-radius: 10px;">
         </div>
       </td>
     </tr>
-    <tr style="height: 20px;"></tr> <!-- Empty row for spacing -->
     <tr>
-      <!-- ====================================== DOC DIGI ================================================ -->
-      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+      <!-- Column 1 Description -->
+      <td style="text-align: center; padding: 20px; vertical-align: top; border: none; overflow: hidden;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱 AI Assisted Document Digitizing System</a></strong></p>
-          <p style="color: green;">This web application will digitize uploaded medical and financial  <br> documents while validating them and categorizing them.  Allowing <br>users in medical and financial fields to handle documents more efficiently.</p>
+          <p style="color: green;">This web application will digitize uploaded medical and financial documents while validating them and categorizing them. Allowing users in medical and financial fields to handle documents more efficiently.
+          <br><br>
+          <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white" />
+            <!-- NumPy -->
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <!-- PyTorch -->
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <!-- Glob -->
+  <img alt="Glob" src="https://img.shields.io/badge/-Glob-grey?style=flat-square&logo=python&logoColor=white" />
+  <!-- Matplotlib -->
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-00599C?style=flat-square&logo=plotly&logoColor=white" />
+  <!-- Scikit-learn -->
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <!-- Random -->
+  <img alt="Random" src="https://img.shields.io/badge/-Random-grey?style=flat-square&logo=python&logoColor=white" />
+  <!-- OpenCV -->
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <!-- Sys -->
+  <img alt="Sys" src="https://img.shields.io/badge/-Sys-grey?style=flat-square&logo=python&logoColor=white" />
+          </p>
         </div>
       </td>
-      <!-- ====================================== BRAIN TUMOUR ================================================ -->
-      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+      <!-- Column 2 Description -->
+      <td style="text-align: center; padding: 20px; vertical-align: top; border: none; overflow: hidden;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
-          <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱 Water Surfurce Trash Collecting Bot</a></strong></p><br>
-          <p style="color: green;">A rover that can float on water and controlled by the user which  <br> will autonomously collect trash floating on the water. It will detect<br> water's purity level, pH levels and will send back a full feedback to the user.</p>
+          <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱 Python Brain Tumor Detectiong Model</a></strong></p>
+          <p style="color: green;">Developed a CNN in PyTorch to classify brain MRI images as tumor or healthy, utilizing GPU acceleration, preprocessing, and evaluating performance with accuracy and a confusion matrix.
+          <br><br>
+          <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white" />
+            <!-- NumPy -->
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <!-- PyTorch -->
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <!-- Glob -->
+  <img alt="Glob" src="https://img.shields.io/badge/-Glob-grey?style=flat-square&logo=python&logoColor=white" />
+  <!-- Matplotlib -->
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-00599C?style=flat-square&logo=plotly&logoColor=white" />
+  <!-- Scikit-learn -->
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <!-- Random -->
+  <img alt="Random" src="https://img.shields.io/badge/-Random-grey?style=flat-square&logo=python&logoColor=white" />
+  <!-- OpenCV -->
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <!-- Sys -->
+  <img alt="Sys" src="https://img.shields.io/badge/-Sys-grey?style=flat-square&logo=python&logoColor=white" />
+          </p>
         </div>
       </td>
     </tr>
@@ -91,6 +136,8 @@ Empty row for spacing -->
 
 
 
+
+
 <div style="display: flex; justify-content: center;">
   <table style="width: 90%; border-collapse: collapse; border: none;">
     <!--   --> 
@@ -98,13 +145,13 @@ Empty row for spacing -->
       <!-- ====================================== LLM ================================================ -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
-          <img src="https://www.shutterstock.com/image-vector/people-taking-documents-shelves-using-600nw-1871168869.jpg" alt="Project 1 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
+          <img src="https://cdn.discordapp.com/attachments/1251434166306869279/1332678167328198738/istockphoto-1486380350-612x612.jpg?ex=679620c3&is=6794cf43&hm=00d3fff3e7cfa19816ea59ccfa6f61f7f69a420968e0b480a7b4a8ad8aff584b&" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
         </div>
       </td>
-      <!-- ====================================== ML PROJECT ================================================ -->
+      <!-- ====================================== ANN ================================================ -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
-          <img src="https://static.vecteezy.com/system/resources/thumbnails/047/442/241/small_2x/man-standing-in-water-collecting-trash-from-the-river-flat-illustration-isolated-on-white-eco-volunteer-cleaning-up-water-from-plastic-garbage-garbage-retention-system-vector.jpg" alt="Project 2 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
+          <img src="https://cdn.discordapp.com/attachments/1251434166306869279/1332695279912095816/1_QGbUI2fikv998Kw9q_4j_g.png?ex=679630b3&is=6794df33&hm=08a6d2e712ddd7495be726b11fe581d3ae271c136b1ba5c3ea9a9e46380e40fd&" alt="Project 2 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
         </div>
       </td>
     </tr>
@@ -113,14 +160,14 @@ Empty row for spacing -->
       <!-- ====================================== LLM ================================================ -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
-          <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱 AI Assisted Document Digitizing System</a></strong></p>
+          <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱AI Assisted Document Digitizing System</a></strong></p>
           <p style="color: green;">This web application will digitize uploaded medical and financial  <br> documents while validating them and categorizing them.  Allowing <br>users in medical and financial fields to handle documents more efficiently.</p>
         </div>
       </td>
-      <!-- ====================================== ML PROJECT ================================================ -->
+      <!-- ====================================== ANN ================================================ -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
-          <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱 Water Surfurce Trash Collecting Bot</a></strong></p><br>
+          <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱ANN Model for Employee Retention Prediction </a></strong></p><br>
           <p style="color: green;">A rover that can float on water and controlled by the user which  <br> will autonomously collect trash floating on the water. It will detect<br> water's purity level, pH levels and will send back a full feedback to the user.</p>
         </div>
       </td>
