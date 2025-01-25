@@ -83,6 +83,37 @@ Empty row for spacing -->
     </tr>
   </table>
 </div>
+<div style="display: flex; justify-content: center;">
+  <table style="width: 90%; border-collapse: collapse; border: none;">
+    <tr>
+      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+        <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
+          <img src="https://www.shutterstock.com/image-vector/people-taking-documents-shelves-using-600nw-1871168869.jpg" alt="Project 1 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
+        </div>
+      </td>
+      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+        <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
+          <img src="https://static.vecteezy.com/system/resources/thumbnails/047/442/241/small_2x/man-standing-in-water-collecting-trash-from-the-river-flat-illustration-isolated-on-white-eco-volunteer-cleaning-up-water-from-plastic-garbage-garbage-retention-system-vector.jpg" alt="Project 2 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
+        </div>
+      </td>
+    </tr>
+    <tr style="height: 20px;"></tr> <!-- Empty row for spacing -->
+    <tr>
+      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+        <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
+          <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱 AI Assisted Document Digitizing System</a></strong></p>
+          <p style="color: green;">This web application will digitize uploaded medical and financial  <br> documents while validating them and categorizing them.  Allowing <br>users in medical and financial fields to handle documents more efficiently.</p>
+        </div>
+      </td>
+      <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
+        <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
+          <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱 Water Surfurce Trash Collecting Bot</a></strong></p><br>
+          <p style="color: green;">A rover that can float on water and controlled by the user which  <br> will autonomously collect trash floating on the water. It will detect<br> water's purity level, pH levels and will send back a full feedback to the user.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 <br>
 
 </h1>
