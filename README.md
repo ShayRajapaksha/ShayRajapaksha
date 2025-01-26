@@ -60,7 +60,7 @@ Empty row for spacing -->
       <col style="width: 50%;">
     </colgroup>
     <tr>
-      <!-- Column 1 -->
+      <!--====================================================================== DGODIGI=========================================================== -->
       <td style="text-align: center; padding: 20px; vertical-align: top; border: none; overflow: hidden;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <img src="https://www.shutterstock.com/image-vector/people-taking-documents-shelves-using-600nw-1871168869.jpg" 
@@ -68,7 +68,7 @@ Empty row for spacing -->
                style="width: 550px; max-width: 100%; height: auto; object-fit: cover; border-radius: 10px;">
         </div>
       </td>
-      <!-- Column 2 -->
+      <!-- ===================================================================BRAIN TUNMOR===========================================================-->
       <td style="text-align: center; padding: 20px; vertical-align: top; border: none; overflow: hidden;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <img src="https://cdn.discordapp.com/attachments/1251434166306869279/1332667955707773009/concept-of-brain-disease-and-neurosurgery-flat-style-illustration-male-doctor-ready-nurse-standing-using-a-magnifying-glass-find-neurological-disease-and-hemorrhagic-stroke-symbols-free-vector.jpg?ex=67961740&is=6794c5c0&hm=f45a42151ae1431fefbd1ab6ad0dbdb73e318be66bb8e8f418e1cacc4c88dc2c&" 
@@ -78,7 +78,7 @@ Empty row for spacing -->
       </td>
     </tr>
     <tr>
-      <!-- Column 1 Description -->
+      <!--====================================================================== DGODIGI=========================================================== -->
       <td style="text-align: center; padding: 20px; vertical-align: top; border: none; overflow: hidden;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱 AI Assisted Document Digitizing System</a></strong></p>
@@ -104,7 +104,7 @@ Empty row for spacing -->
           </p>
         </div>
       </td>
-      <!-- Column 2 Description -->
+      <!-- ===================================================================BRAIN TUNMOR===========================================================-->
       <td style="text-align: center; padding: 20px; vertical-align: top; border: none; overflow: hidden;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱 Python Brain Tumor Detectiong Model</a></strong></p>
@@ -142,13 +142,13 @@ Empty row for spacing -->
   <table style="width: 90%; border-collapse: collapse; border: none;">
     <!--   --> 
     <tr>
-      <!-- ====================================== LLM ================================================ -->
+      <!-- ================================================================================ LLM ================================================================================== -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <img src="https://cdn.discordapp.com/attachments/1251434166306869279/1332678167328198738/istockphoto-1486380350-612x612.jpg?ex=679620c3&is=6794cf43&hm=00d3fff3e7cfa19816ea59ccfa6f61f7f69a420968e0b480a7b4a8ad8aff584b&" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
         </div>
       </td>
-      <!-- ====================================== ANN ================================================ -->
+      <!-- ================================================================================= ANN ================================================================================= -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <img src="https://cdn.discordapp.com/attachments/1251434166306869279/1332695279912095816/1_QGbUI2fikv998Kw9q_4j_g.png?ex=679630b3&is=6794df33&hm=08a6d2e712ddd7495be726b11fe581d3ae271c136b1ba5c3ea9a9e46380e40fd&" alt="Project 2 Image" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
@@ -157,18 +157,20 @@ Empty row for spacing -->
     </tr>
     <tr style="height: 20px;"></tr> <!-- Empty row for spacing -->
     <tr>
-      <!-- ====================================== LLM ================================================ -->
+      <!-- ================================================================================== LLM ================================================================================== -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
-          <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱AI Assisted Document Digitizing System</a></strong></p>
-          <p style="color: green;">This web application will digitize uploaded medical and financial  <br> documents while validating them and categorizing them.  Allowing <br>users in medical and financial fields to handle documents more efficiently.</p>
+          <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;"> Multi-Agent Research Supporting System Using LLMs </a></strong></p>
+          <p style="color: green;">AI-driven multi-agent system usingg large language models (LLMs) <br> to automate research workflows, including internet-based data <br>retrieval, analysis, summarization, and fact-checking <br> Feature Scaling, One-Hot Encoding, Discretization, Hyperparameter Tuning <br> (GridSearchCV)
+Visualization: Matplotlib, Seaborn </p>
         </div>
       </td>
       <!-- ====================================== ANN ================================================ -->
       <td style="width: 25%; height: 200px; text-align: center; padding: 20px; vertical-align: top; border: none; border-radius: 10px;">
         <div style="padding: 20px; border: 2px solid black; border-radius: 10px;">
           <p><strong><a href="https://github.com/KaviPaz21/docdigitize" style="color: blue;">📱ANN Model for Employee Retention Prediction </a></strong></p><br>
-          <p style="color: green;">A rover that can float on water and controlled by the user which  <br> will autonomously collect trash floating on the water. It will detect<br> water's purity level, pH levels and will send back a full feedback to the user.</p>
+          <p style="color: green;">Developed a binary classification model to predict employee retention based on <br> demographic, professional, and organizational data. Leveraged data preprocessing <br> techniques, exploratory data analysis, and hyperparameter<br> tuning to optimize a Multi-Layer Perceptron (MLP) neural network for improved accuracy <br>  and performance.
+          PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn <br> ,Feature Scaling, One-Hot Encoding, Discretization, Hyperparameter Tuning, Matplotlib, Seaborn</p>
         </div>
       </td>
     </tr>
